@@ -1,0 +1,8 @@
+html, body{
+    min-height:350px;
+    width:300px;
+}
+
+#Exercise {
+background-image: url("bg.jpg");
+}

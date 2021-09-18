@@ -1,0 +1,9 @@
+{
+    "name": " Calm ",
+    "version": "0.0.1",
+    "description": "Chrome Extention to relax",
+    "manifest_version": 2,
+    "browser_action": {
+        "default_popup": "demo.html"
+    }
+}
